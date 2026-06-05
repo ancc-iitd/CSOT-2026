@@ -9,8 +9,6 @@
 <br>
 
 [![YouTube Playlist](https://img.shields.io/badge/YouTube-Playlist-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLghw1kkEm-HA8Fhy2ETAIf9crdRnyhyWp)
-![Status](https://img.shields.io/badge/Status-Ongoing-2ea44f?style=flat-square)
-![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-1f8acb?style=flat-square)
 
 A lecture and contest series to build a strong foundation in the algorithms most commonly tested in **internship selection tests** and **competitive programming**.
 
