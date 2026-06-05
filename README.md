@@ -59,7 +59,7 @@ Primarily targeted at **1st and 2nd year students**, but everyone is welcome —
 
 | # | Date | Day | Link |
 | :--- | :--- | :--- | :---: |
-| Lecture 5 | Jun 6 | Saturday | _TBA_ |
+| Lecture 5 | Jun 5 | Friday | _TBA_ |
 | Lecture 6 | Jun 7 | Sunday | _TBA_ |
 | Lecture 7 | Jun 8 | Monday | _TBA_ |
 
@@ -109,6 +109,7 @@ Lecture code, reference notes, and practice problem sets are organised by module
 | Basics of CP | Lecture 2 | [Code + Problems + Solutions](MODULE%201%20%E2%80%94%20BASICS%20OF%20CP/LECTURE2) |
 | Number Theory | Lecture 1 | [Lecture Notes](MODULE%202%20%E2%80%94%20NUMBER%20THEORY/LECTURE1) |
 | Number Theory | Lecture 2 | [Lecture Notes](MODULE%202%20%E2%80%94%20NUMBER%20THEORY/LECTURE2) |
+| Dynamic Programming | Lecture 1 | [Slides](MODULE%203%20%E2%80%94%20DYNAMIC%20PROGRAMMING/LECTURE1) |
 
 > [!NOTE]
 > More materials will be added here as each module is covered.
