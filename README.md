@@ -59,7 +59,7 @@ Primarily targeted at **1st and 2nd year students**, but everyone is welcome —
 
 | # | Date | Day | Link |
 | :--- | :--- | :--- | :---: |
-| Lecture 5 | Jun 5 | Friday | _TBA_ |
+| Lecture 5 | Jun 5 | Friday | [Watch](https://youtu.be/QMJG6FNPGNg?si=G6YWRPsjbzX6_vsh) |
 | Lecture 6 | Jun 7 | Sunday | _TBA_ |
 | Lecture 7 | Jun 8 | Monday | _TBA_ |
 
