@@ -88,7 +88,7 @@ Contests are standalone rounds, not tied to any single module.
 | # | Date | Day | Link |
 | :--- | :--- | :--- | :---: |
 | Contest 1 | Jun 3 | Wednesday | [Register](https://codeforces.com/contestInvitation/41d32f1183a7588f13ee09811294f0dd04d471cf) |
-| Contest 2 | Jun 10 | Wednesday | _TBA_ |
+| Contest 2 | Jun 14 | Sunday | [Register](https://codeforces.com/contestInvitation/076be8ebc406e08adf16b4384fced8101fae17ed) |
 | Contest 3 | Jun 24 | Tuesday | _TBA_ |
 | Grand Finale | Jul 2 | Wednesday | _TBA_ |
 
