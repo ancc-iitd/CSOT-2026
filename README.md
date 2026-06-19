@@ -66,7 +66,7 @@ Primarily targeted at **1st and 2nd year students**, but everyone is welcome —
 
 | # | Date | Day | Link |
 | :--- | :--- | :--- | :---: |
-| Lecture 7 | Jun 18 | Thursday | _TBA_ |
+| Lecture 7 | Jun 18 | Thursday | [Watch](https://youtu.be/1KFWk5A0Xyw?si=iW0zMGlfTWbEfaMK) |
 | Lecture 8 | _TBA_ | _TBA_ | _TBA_ |
 | Lecture 9 | _TBA_ | _TBA_ | _TBA_ |
 | Lecture 10 | _TBA_ | _TBA_ | _TBA_ |
