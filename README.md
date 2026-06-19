@@ -35,7 +35,7 @@ Primarily targeted at **1st and 2nd year students**, but everyone is welcome —
 | :--- | :--- | :---: |
 | **1 · Basics of CP** | STL, Math, Binary Search, Two Pointers, Greedy, Sorting | 2 |
 | **2 · Number Theory** | GCD/LCM, Modular Arithmetic, Primes, Sieve | 2 |
-| **3 · Dynamic Programming** | DP fundamentals, Bitmask DP, advanced problems | 2–3 |
+| **3 · Dynamic Programming** | DP fundamentals, Bitmask DP, advanced problems | 2 |
 | **4 · Graphs & Trees** | BFS, DFS, Dijkstra's Algorithm, DSU, Trees, LCA | 4–5 |
 | **5 · Segment Trees** | Segment Trees, Fenwick Trees | 2–3 |
 
@@ -61,25 +61,24 @@ Primarily targeted at **1st and 2nd year students**, but everyone is welcome —
 | :--- | :--- | :--- | :---: |
 | Lecture 5 | Jun 5 | Friday | [Watch](https://youtu.be/QMJG6FNPGNg?si=G6YWRPsjbzX6_vsh) |
 | Lecture 6 | Jun 8 | Monday | [Watch](https://www.youtube.com/watch?v=AJOI4Vs5DgA) |
-| Lecture 7 | _TBA_ | _TBA_ | _TBA_ |
 
 #### Module 4 — Graphs & Trees
 
 | # | Date | Day | Link |
 | :--- | :--- | :--- | :---: |
-| Lecture 8 | Jun 13 | Friday | _TBA_ |
-| Lecture 9 | Jun 14 | Saturday | _TBA_ |
-| Lecture 10 | Jun 17 | Tuesday | _TBA_ |
-| Lecture 11 | Jun 20 | Friday | _TBA_ |
-| Lecture 12 | Jun 21 | Saturday | _TBA_ |
+| Lecture 7 | Jun 18 | Thursday | [Watch](https://youtu.be/1KFWk5A0Xyw?si=iW0zMGlfTWbEfaMK) |
+| Lecture 8 | _TBA_ | _TBA_ | _TBA_ |
+| Lecture 9 | _TBA_ | _TBA_ | _TBA_ |
+| Lecture 10 | _TBA_ | _TBA_ | _TBA_ |
+| Lecture 11 | _TBA_ | _TBA_ | _TBA_ |
 
 #### Module 5 — Segment Trees & Fenwick Trees
 
 | # | Date | Day | Link |
 | :--- | :--- | :--- | :---: |
-| Lecture 13 | Jun 27 | Friday | _TBA_ |
-| Lecture 14 | Jun 28 | Saturday | _TBA_ |
-| Lecture 15 | Jun 29 | Sunday | _TBA_ |
+| Lecture 12 | _TBA_ | _TBA_ | _TBA_ |
+| Lecture 13 | _TBA_ | _TBA_ | _TBA_ |
+| Lecture 14 | _TBA_ | _TBA_ | _TBA_ |
 
 ## Contests
 
@@ -111,6 +110,7 @@ Lecture code, reference notes, and practice problem sets are organised by module
 | Number Theory | Lecture 2 | [Lecture Notes](MODULE%202%20%E2%80%94%20NUMBER%20THEORY/LECTURE2) |
 | Dynamic Programming | Lecture 1 | [Slides](MODULE%203%20%E2%80%94%20DYNAMIC%20PROGRAMMING/LECTURE1) |
 | Dynamic Programming | Lecture 2 | [Lecture Notes](MODULE%203%20%E2%80%94%20DYNAMIC%20PROGRAMMING/LECTURE2) |
+| Graphs & Trees | Lecture 1 | [Lecture Notes](MODULE%204%20%E2%80%94%20GRAPHS%20%26%20TREES/LECTURE1) |
 
 > [!NOTE]
 > More materials will be added here as each module is covered.
