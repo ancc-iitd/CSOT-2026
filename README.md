@@ -67,8 +67,8 @@ Primarily targeted at **1st and 2nd year students**, but everyone is welcome —
 | # | Date | Day | Link |
 | :--- | :--- | :--- | :---: |
 | Lecture 7 | Jun 18 | Thursday | [Watch](https://youtu.be/1KFWk5A0Xyw?si=iW0zMGlfTWbEfaMK) |
-| Lecture 8 | _TBA_ | _TBA_ | _TBA_ |
-| Lecture 9 | _TBA_ | _TBA_ | _TBA_ |
+| Lecture 8 | Jun 20 | Saturday | [Watch](https://youtu.be/QR69WTR6IsY?si=0yuhp7oTa43EUinS) |
+| Lecture 9 | Jun 22 | Monday | [Watch](https://youtu.be/-HDNDy3Ph1c?si=Xtt7YnbaIyBun8NX) |
 | Lecture 10 | _TBA_ | _TBA_ | _TBA_ |
 | Lecture 11 | _TBA_ | _TBA_ | _TBA_ |
 
@@ -111,6 +111,8 @@ Lecture code, reference notes, and practice problem sets are organised by module
 | Dynamic Programming | Lecture 1 | [Slides](MODULE%203%20%E2%80%94%20DYNAMIC%20PROGRAMMING/LECTURE1) |
 | Dynamic Programming | Lecture 2 | [Lecture Notes](MODULE%203%20%E2%80%94%20DYNAMIC%20PROGRAMMING/LECTURE2) |
 | Graphs & Trees | Lecture 1 | [Lecture Notes](MODULE%204%20%E2%80%94%20GRAPHS%20%26%20TREES/LECTURE1) |
+| Graphs & Trees | Lecture 2 | [Slides](MODULE%204%20%E2%80%94%20GRAPHS%20%26%20TREES/LECTURE2) |
+| Graphs & Trees | Lecture 3 | [Slides](MODULE%204%20%E2%80%94%20GRAPHS%20%26%20TREES/LECTURE3) |
 
 > [!NOTE]
 > More materials will be added here as each module is covered.
